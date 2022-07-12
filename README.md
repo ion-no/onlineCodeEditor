@@ -1,3 +1,45 @@
-# React-IDE
-An online based IDE to execute code made using React.
-The server folder is useless, but I was compelled to keep it as it gave me quite some pain to write the code :D
+#ChatsApp
+
+The project implements a online code editor compartible with C, C++, Python
+
+Deployed @
+
+## Getting Started
+
+for localhost
+
+clone the repo
+
+### Prerequisites
+
+install node packages
+
+```
+npm install 
+```
+
+### Installing
+
+to run the server side
+
+
+```
+npm start
+```
+
+to run client
+
+```
+cd client
+npm run react
+```
+
+
+## Built With
+
+* [React]
+* [Express.js]
+* [nodeJS]
+
+
+
