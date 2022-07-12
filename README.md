@@ -1,4 +1,4 @@
-#ChatsApp
+#Online Compiler
 
 The project implements a online code editor compartible with C, C++, Python
 
