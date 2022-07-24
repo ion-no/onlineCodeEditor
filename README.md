@@ -15,13 +15,12 @@ clone the repo
 install node packages
 
 ```
-npm install 
+npm install
 ```
 
 ### Installing
 
 to run the server side
-
 
 ```
 npm start
@@ -31,15 +30,11 @@ to run client
 
 ```
 cd client
-npm run react
+npm start
 ```
-
 
 ## Built With
 
-* [React]
-* [Express.js]
-* [nodeJS]
-
-
-
+- [React]
+- [Express.js]
+- [nodeJS]
