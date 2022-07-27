@@ -127,7 +127,7 @@ function Ide({ value, onChange }) {
         python3: "text/x-python",
     }
 
-    const lang_show = [ "C", "C++", "Python3"]
+    const lang_show = [ "C", "C++", "Python"]
     const lang_store = [ "c", "cpp", "python3"]
 
     return (
