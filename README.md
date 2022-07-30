@@ -2,7 +2,7 @@
 
 The project implements a online code editor compartible with C, C++, Python
 
-Deployed @
+Deployed @ https://onlineide-135.herokuapp.com/
 
 ## Getting Started
 
@@ -23,14 +23,13 @@ npm install
 to run the server side
 
 ```
-npm start
+npm run server
 ```
 
 to run client
 
 ```
-cd client
-npm start
+npm run react
 ```
 ![1](https://user-images.githubusercontent.com/88588326/180659932-c037d270-029c-4347-938c-0344866d1b59.png)
 
