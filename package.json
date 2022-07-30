@@ -19,10 +19,10 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "start": "node server/index.js",
+    "start": "node index.js",
     "react": "react-scripts start",
-    "server": "nodemon server/index.js",
-    "online": "node server/index.js",
+    "server": "nodemon index.js",
+    "online": "node index.js",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
